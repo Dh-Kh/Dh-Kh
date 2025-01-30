@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=200&section=header&text=Hi,%20I'm%20@Dh-Kh!&fontSize=40&fontAlignY=35&desc=Software%20Developer%20at%20Promobility&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20@Dh-Kh!&fontSize=40&fontAlignY=35&desc=Software%20Developer%20at%20Promobility&descAlignY=55&descAlign=50)
 
 ## 👋 About Me
 - 👀 I’m interested in **Python, Java, Data Science, and Machine Learning**  
